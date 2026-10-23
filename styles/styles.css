@@ -189,7 +189,7 @@ section[class^="tekenmethodes-section"] {
 
     h2 {
         background-color: #4FBBC2;
-        color: white;
+        color: var(--secondary-color-dark);
         padding: 12px 20px;
     }
 
@@ -237,7 +237,7 @@ section[class^="tekenmethodes-section"] {
             dt {
                 font-size: 1.5rem;
                 font-weight: 900;
-                color: #FFF;
+                color: var(--secondary-color-dark);
                 text-wrap: balance;
             }
         }
