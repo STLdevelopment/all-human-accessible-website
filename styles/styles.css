@@ -212,8 +212,11 @@ section[class^="tekenmethodes-section"] {
             color: var(--secondary-color-dark);
             font-weight: 900;
 
-            dt {
+            article {
                 flex-grow: 2;
+                display: flex;
+                flex-direction: column-reverse;
+                gap: 1rem;
 
                 img {
                     width: 100%;
@@ -223,7 +226,7 @@ section[class^="tekenmethodes-section"] {
                 }
             }
 
-            dd {
+            h3 {
                 font-size: 1.25rem;
             }
         }
