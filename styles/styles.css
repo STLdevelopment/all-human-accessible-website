@@ -341,7 +341,7 @@ footer {
     background-color: var(--secondary-color-dark);
     padding: 3rem 20px;
 
-    >nav {
+    >section {
         max-width: 1300px;
         margin: 0 auto;
         display: grid;
@@ -372,7 +372,16 @@ footer {
         }
     }
 
-    ul {
-        list-style-type: "";
+    nav {
+        color: var(--primary-color);
+        display: flex;
+        flex-direction: column;
+        gap: .5rem;
+
+        a {
+            color: white;
+            font-family: 'Yrsa';
+            font-size: 1rem;
+        }
     }
 }
