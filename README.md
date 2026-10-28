@@ -15,7 +15,7 @@ Link naar tekenmethodes pagina: https://stldevelopment.github.io/all-human-acces
 ## Kenmerken
 De website is ontwikkeld met HTML en CSS, waarbij JavaScript uiteindelijk nog toegepast zal worden.
 
-Veranderingen de gemaakt zijn naar aanleiding van de WCAG richtlijnen zijn:
+Veranderingen die gemaakt zijn naar aanleiding van de WCAG richtlijnen zijn:
  * Minimale font groottes op teksten/knoppen
  * Kleurcontrasten tegen achtergrondkleuren onderzoek
  * Tab (keyboard) navigatie
