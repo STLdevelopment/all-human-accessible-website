@@ -1,25 +1,24 @@
 # Accessible Website
-
-Ontwerp en maak voor een opdrachtgever een website toegankelijk volgens WCAG richtlijnen.
-
-De instructie van deze leertaak staat in [WIKI](https://github.com/fdnd-task/all-human-accessible-website/wiki)
+Voor de website https://visualthinking.school/ is er een redesign ontworpen waarvan deze ontwikkeld dient te worden. Onze taak is om de ontbrekende mobiele weergaven te ontwerpen en de website te ontwikkelen.
 
 ## Inhoudsopgave
-
   * [Beschrijving](#beschrijving)
   * [Kenmerken](#kenmerken)
   * [Bronnen](#bronnen)
   * [Licentie](#licentie)
 
 ## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+De 'Tekenmethodes' pagina heeft de hoogste prioriteit ontvangen voor de ontwikkeling, waar in deze fase de focus ligt op toegankelijkheid. Hiervoor is de gehele code herzien, opnieuw opgebouwd of gewijzigd waar nodig om aan de WCAG richtlijnen te voldoen.
+
+Link naar tekenmethodes pagina: https://stldevelopment.github.io/all-human-accessible-website/tekenmethodes.html
 
 ## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
+De website is ontwikkeld met HTML en CSS, waarbij JavaScript uiteindelijk nog toegepast zal worden.
+
+Veranderingen in de richtlijnen 
 
 ## Bronnen
+Figma design: https://www.figma.com/design/L6Xz5TeiDxiyCdtvC94zdO/Prototype-Visual-Thinking?node-id=272-1359&p=f&t=MuKxXWiZBol5WlN7-0
 
 ## Licentie
 This project is licensed under the terms of the [MIT license](./LICENSE).
