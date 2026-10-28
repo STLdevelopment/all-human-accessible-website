@@ -16,14 +16,14 @@ Link naar tekenmethodes pagina: https://stldevelopment.github.io/all-human-acces
 De website is ontwikkeld met HTML en CSS, waarbij JavaScript uiteindelijk nog toegepast zal worden.
 
 Veranderingen de gemaakt zijn naar aanleiding van de WCAG richtlijnen zijn:
--Minimale font groottes op teksten/knoppen
--Kleurcontrasten tegen achtergrondkleuren onderzoek
--Tab (keyboard) navigatie
--Screenreader toegankelijke HTML onderzoek en start van toepassing
+ * Minimale font groottes op teksten/knoppen
+ * Kleurcontrasten tegen achtergrondkleuren onderzoek
+ * Tab (keyboard) navigatie
+ * Screenreader toegankelijke HTML onderzoek en start van toepassing
 
 ## Bronnen
-Figma design: https://www.figma.com/design/L6Xz5TeiDxiyCdtvC94zdO/Prototype-Visual-Thinking?node-id=272-1359&p=f&t=MuKxXWiZBol5WlN7-0
-Kleurcontrast tool: https://color.adobe.com/create/color-wheel
+ * Figma design: https://www.figma.com/design/L6Xz5TeiDxiyCdtvC94zdO/Prototype-Visual-Thinking?node-id=272-1359&p=f&t=MuKxXWiZBol5WlN7-0
+ * Kleurcontrast tool: https://color.adobe.com/create/color-wheel
 
 ## Licentie
 This project is licensed under the terms of the [MIT license](./LICENSE).
